@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Toronto MeetUp",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "MeetUp",
       "premiumOnly": false,
       "date": "2020-01-01"
@@ -13,7 +13,7 @@
       "id": 2,
       "title": "Vancouver Leap",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Leap",
       "premiumOnly": false,
       "date": "2020-01-11"
@@ -22,7 +22,7 @@
       "id": 3,
       "title": "Canada Recruiting Mission",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Recruiting Mission",
       "premiumOnly": false,
       "date": "2020-01-21"
@@ -31,7 +31,7 @@
       "id": 4,
       "title": "Online VanHackathon",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "VanHackathon",
       "premiumOnly": false,
       "date": "2020-01-23"
@@ -40,7 +40,7 @@
       "id": 5,
       "title": "IT Premium-only Webinar",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Premium-only Webinar",
       "premiumOnly": true,
       "date": "2020-01-28"
@@ -49,7 +49,7 @@
       "id": 6,
       "title": "Tech Open Webinar",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Open Webinar",
       "premiumOnly": false,
       "date": "2020-02-01"
@@ -58,7 +58,7 @@
       "id": 7,
       "title": "Amsterdam Leap",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Leap",
       "premiumOnly": false,
       "date": "2020-02-04"
@@ -67,7 +67,7 @@
       "id": 8,
       "title": "Virtual MeetUp",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "MeetUp",
       "premiumOnly": false,
       "date": "2020-02-10"
@@ -76,7 +76,7 @@
       "id": 9,
       "title": "Berlin Leap",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Leap",
       "premiumOnly": false,
       "date": "2020-02-13"
@@ -85,7 +85,7 @@
       "id": 10,
       "title": "Calgary VanHackathon",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "VanHackathon",
       "premiumOnly": false,
       "date": "2020-02-01"
@@ -94,7 +94,7 @@
       "id": 11,
       "title": "DevOps Premium-only Webinar",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Premium-only Webinar",
       "premiumOnly": false,
       "date": "2020-02-18"
@@ -103,7 +103,7 @@
       "id": 12,
       "title": "Quebec VanHackathon",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "VanHackathon",
       "premiumOnly": false,
       "date": "2020-02-22"
@@ -112,7 +112,7 @@
       "id": 13,
       "title": "Remote Working Open Webinar",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Open Webinar",
       "premiumOnly": false,
       "date": "2020-02-25"
@@ -121,7 +121,7 @@
       "id": 14,
       "title": "Brazil MeetUp",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "MeetUp",
       "premiumOnly": false,
       "date": "2020-03-02"
@@ -130,7 +130,7 @@
       "id": 15,
       "title": "Virtual Recruiting Mission",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Recruiting Mission",
       "premiumOnly": false,
       "date": "2020-03-20"
@@ -139,7 +139,7 @@
       "id": 16,
       "title": "Relocation Premium-only Webinar",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Premium-only Webinar",
       "premiumOnly": false,
       "date": "2020-03-25"
@@ -148,7 +148,7 @@
       "id": 17,
       "title": "Vancouver Leap",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Leap",
       "premiumOnly": false,
       "date": "2020-03-29"
@@ -157,7 +157,7 @@
       "id": 18,
       "title": "Virtual VanHackathon",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "VanHackathon",
       "premiumOnly": false,
       "date": "2020-04-05"
@@ -166,7 +166,7 @@
       "id": 19,
       "title": "Tech Open Webinar",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Open Webinar",
       "premiumOnly": false,
       "date": "2020-04-09"
@@ -175,7 +175,7 @@
       "id": 20,
       "title": "Remote Workers MeetUp",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "MeetUp",
       "premiumOnly": false,
       "date": "2020-04-16"
@@ -184,7 +184,7 @@
       "id": 21,
       "title": "AWS Premium-only Webinar",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Premium-only Webinar",
       "premiumOnly": false,
       "date": "2020-04-20"
@@ -193,7 +193,7 @@
       "id": 22,
       "title": "Ontario Leap",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Leap",
       "premiumOnly": false,
       "date": "2020-04-21"
@@ -202,7 +202,7 @@
       "id": 23,
       "title": "Calgary MeetUp",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "MeetUp",
       "premiumOnly": false,
       "date": "2020-05-02"
@@ -211,7 +211,7 @@
       "id": 24,
       "title": "Infrastructure Open Webinar",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Open Webinar",
       "premiumOnly": false,
       "date": "2020-05-12"
@@ -220,7 +220,7 @@
       "id": 25,
       "title": "Virtual Recruiting Mission",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Recruiting Mission",
       "premiumOnly": false,
       "date": "2020-05-18"
@@ -229,7 +229,7 @@
       "id": 26,
       "title": "Alberta MeetUp",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "MeetUp",
       "premiumOnly": false,
       "date": "2020-06-01"
@@ -238,7 +238,7 @@
       "id": 27,
       "title": "React Open Webinar",
       "simpleDescription": "This is a simple description...",
-      "img": "https://placeimg.com/500/500/animals",
+      "img": "https://placeimg.com/300/300/animals",
       "type": "Open Webinar",
       "premiumOnly": false,
       "date": "2020-06-20"
