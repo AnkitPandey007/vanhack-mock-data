@@ -96,7 +96,7 @@
       "simpleDescription": "This is a simple description...",
       "img": "https://placeimg.com/300/300/animals",
       "type": "Premium-only Webinar",
-      "premiumOnly": false,
+      "premiumOnly": true,
       "date": "2020-02-18"
     },
     {
@@ -141,7 +141,7 @@
       "simpleDescription": "This is a simple description...",
       "img": "https://placeimg.com/300/300/animals",
       "type": "Premium-only Webinar",
-      "premiumOnly": false,
+      "premiumOnly": true,
       "date": "2020-03-25"
     },
     {
@@ -186,7 +186,7 @@
       "simpleDescription": "This is a simple description...",
       "img": "https://placeimg.com/300/300/animals",
       "type": "Premium-only Webinar",
-      "premiumOnly": false,
+      "premiumOnly": true,
       "date": "2020-04-20"
     },
     {
